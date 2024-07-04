@@ -1,0 +1,8 @@
+sources:
+  - name: raw_stripe
+    tables:
+      - name: raw_payment
+  - name: raw_jaffle_shop
+    tables:
+      - name: raw_orders
+      - name: raw_customers
